@@ -9,7 +9,7 @@
 
 <p><img src="assets/views-badge.svg" alt="Profile views"/></p>
 
-<p><img src="assets/info-box.svg" width="100%" alt="Class: Student / Full-Stack Apprentice, Origin: Indonesia, obsessed with opensource project"/></p>
+<p><img src="assets/info-box.svg" width="100%" alt="Class: Student / Full-Stack Apprentice, Origin: Indonesia, Obsessed with Opensource & FLOSS Project"/></p>
 
 ---
 
