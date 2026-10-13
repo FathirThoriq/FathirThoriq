@@ -9,7 +9,7 @@
 <p><em>Everyone Has the Same Chance</em></p>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=FathirThoriq&label=PROFILE%20VIEWS&color=ffffff&style=flat" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=FathirThoriq&label=PROFILE%20VIEWS&color=000000&style=flat&base=0" alt="Profile views"/>
 
 ---
 
