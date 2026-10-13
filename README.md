@@ -25,7 +25,6 @@
 
 ---
 
-### Linux
 
 <p align="center"><img src="assets/linux-ascii.svg" width="560" alt="Animasi ASCII logo distro Linux: Arch Linux, Debian, Fedora, NixOS"/></p>
 
