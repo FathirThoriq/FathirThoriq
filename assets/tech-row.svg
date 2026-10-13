@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="46" viewBox="0 0 880 46">
+<rect width="880" height="46" fill="#0d1117"/>
+<rect x="10" y="11" width="24" height="24" fill="none" stroke="#5a5a5a"/>
+<text x="22" y="27" font-family="sans-serif" font-size="10.5" font-weight="bold" fill="#e8e8e8" text-anchor="middle">J</text>
+<text x="42" y="28" font-family="sans-serif" font-size="13" font-weight="600" letter-spacing="2.2" fill="#d7d7d7">JAVA</text>
+<rect x="101" y="11" width="24" height="24" fill="none" stroke="#5a5a5a"/>
+<text x="113" y="27" font-family="sans-serif" font-size="10.5" font-weight="bold" fill="#e8e8e8" text-anchor="middle">JS</text>
+<text x="133" y="28" font-family="sans-serif" font-size="13" font-weight="600" letter-spacing="2.2" fill="#d7d7d7">JAVASCRIPT</text>
+<rect x="263" y="11" width="24" height="24" fill="none" stroke="#5a5a5a"/>
+<text x="275" y="27" font-family="sans-serif" font-size="10.5" font-weight="bold" fill="#e8e8e8" text-anchor="middle">P</text>
+<text x="295" y="28" font-family="sans-serif" font-size="13" font-weight="600" letter-spacing="2.2" fill="#d7d7d7">PHP</text>
+<rect x="343" y="11" width="24" height="24" fill="none" stroke="#5a5a5a"/>
+<text x="355" y="27" font-family="sans-serif" font-size="10.5" font-weight="bold" fill="#e8e8e8" text-anchor="middle">Py</text>
+<text x="375" y="28" font-family="sans-serif" font-size="13" font-weight="600" letter-spacing="2.2" fill="#d7d7d7">PYTHON</text>
+<rect x="458" y="11" width="24" height="24" fill="none" stroke="#5a5a5a"/>
+<text x="470" y="27" font-family="sans-serif" font-size="10.5" font-weight="bold" fill="#e8e8e8" text-anchor="middle">5</text>
+<text x="490" y="28" font-family="sans-serif" font-size="13" font-weight="600" letter-spacing="2.2" fill="#d7d7d7">HTML5</text>
+<rect x="561" y="11" width="24" height="24" fill="none" stroke="#5a5a5a"/>
+<text x="573" y="27" font-family="sans-serif" font-size="10.5" font-weight="bold" fill="#e8e8e8" text-anchor="middle">3</text>
+<text x="593" y="28" font-family="sans-serif" font-size="13" font-weight="600" letter-spacing="2.2" fill="#d7d7d7">CSS3</text>
+<rect x="652" y="11" width="24" height="24" fill="none" stroke="#5a5a5a"/>
+<text x="664" y="27" font-family="sans-serif" font-size="10.5" font-weight="bold" fill="#e8e8e8" text-anchor="middle">GH</text>
+<text x="684" y="28" font-family="sans-serif" font-size="13" font-weight="600" letter-spacing="2.2" fill="#d7d7d7">GITHUB</text>
+<rect x="767" y="11" width="24" height="24" fill="none" stroke="#5a5a5a"/>
+<text x="779" y="27" font-family="sans-serif" font-size="10.5" font-weight="bold" fill="#e8e8e8" text-anchor="middle">VS</text>
+<text x="799" y="28" font-family="sans-serif" font-size="13" font-weight="600" letter-spacing="2.2" fill="#d7d7d7">VSCODE</text>
+</svg>
