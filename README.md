@@ -5,26 +5,32 @@
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=40&pause=1400&color=FFFFFF&center=true&vCenter=true&width=700&lines=THE+WORLD+IS+YOURS.;Magis+Minoris+Felicior;FULL-STACK+APPRENTICE" alt="Typing title"/>
 </picture>
 <p><em>Everyone Has the Same Chance</em></p>
-<p><img src="https://komarev.com/ghpvc/?username=FathirThoriq&label=PROFILE%20VIEWS&color=000000&style=flat&base=0" alt="Profile views"/></p>
 </div>
 
-<table width="100%">
-<tr>
-<td width="50%">◆ Class -> Student / Full-Stack Apprentice<br/>
-◆ Origin -> Indonesia<br/>
-◆ -> Obsessed With OpenSource & FLOSS</td>
-<td width="50%" align="center">✦</td>
-</tr>
-</table>
+<p><img src="assets/views-badge.svg" alt="Profile views"/></p>
 
-<p align="center"><strong>Technologies</strong></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=java,javascript,php,python,html,css,github,vscode&theme=dark" alt="Java JavaScript PHP Python HTML5 CSS3 GitHub VSCode"/></p>
+<p><img src="assets/info-box.svg" width="100%" alt="Class: Student / Full-Stack Apprentice, Origin: Indonesia, obsessed with opensource project"/></p>
 
-<p align="center"><strong>Statistics</strong></p>
+---
+
+### Technologies
+
+<p><img src="assets/tech-row.svg" width="100%" alt="Java JavaScript PHP Python HTML5 CSS3 GitHub VSCode"/></p>
+
+---
+
+### Statistics
+
 <p><img src="assets/stats.svg" width="100%" alt="Statistics Tears — Total Contributions 5, Current Streak 2, Longest Streak 2"/></p>
 
-<p align="center"><strong>Linux</strong></p>
+---
+
+### Linux
+
 <p align="center"><img src="assets/linux-ascii.svg" width="560" alt="Animasi ASCII logo distro Linux: Arch Linux, Debian, Fedora, NixOS"/></p>
 
-<p align="center"><strong>Contribution Graph</strong></p>
+---
+
+### Contribution Graph
+
 <p><img src="assets/contribution-graph.svg" width="100%" alt="Contribution Graph"/></p>
