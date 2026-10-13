@@ -7,7 +7,7 @@
 <p><em>Everyone Has the Same Chance</em></p>
 </div>
 
-<p><img src="assets/views-badge.svg" alt="Profile views"/></p>
+<p><img src="assets/views-badge.svg" alt="Profile views"/> <a href="https://fathirthoriq.github.io"><img src="assets/website-badge.svg" alt="Website"/></a></p>
 
 <p><img src="assets/info-box.svg?v=4" width="100%" alt="Class: Student / Full-Stack Apprentice, Origin: Indonesia, Obsessed with Opensource & FLOSS Project"/></p>
 
