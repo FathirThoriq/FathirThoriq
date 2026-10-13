@@ -15,7 +15,7 @@
 
 ### Technologies
 
-<p><img src="assets/tech-row.svg" width="100%" alt="Java JavaScript PHP Python HTML5 CSS3 GitHub VSCode"/></p>
+<p><img src="assets/tech-row.svg" width="100%" alt="Java JavaScript PHP Python Dart HTML5 CSS3 GitHub VSCode"/></p>
 
 ---
 
